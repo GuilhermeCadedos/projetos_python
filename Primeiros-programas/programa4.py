@@ -1,0 +1,18 @@
+
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+emoji = input("Digite o emjoji que mais gosta: ")
+linguagem = input("Digite a sua linguagem de programação favorita: ")
+print()
+print()
+
+print("--------------------------------")
+print()
+print("Crachá do dev")
+print()
+print(f"Nome: {nome}")
+print(f"Idade: {idade}")
+print(f"Emoji: {emoji}")
+print(f"linguagem {linguagem}")
+print()
+print("---------------------------------")
